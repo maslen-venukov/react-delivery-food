@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "keyValue": "pizza-plus",
+      "img": "https://www.delivery-club.ru/naturmort/42000068_480x300.jpg",
+      "name": "Пицца плюс",
+      "time": 40,
+      "stars": 4.7,
+      "price": 1100,
+      "categories": [ 1 ],
+      "products": [
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/24094/311663760_m650.jpg",
+          "name": "Пицца Везувий",
+          "descr": "Соус томатный, сыр «Моцарелла», ветчина, пепперони, перец «Халапенье», соус «Тобаско», томаты.",
+          "price": 545
+        },
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/24094/311842664_m650.jpg",
+          "name": "Пицца Девичник",
+          "descr": "Соус томатный, постное тесто, нежирный сыр, кукуруза, лук, маслины, грибы, помидоры, болгарский перец.",
+          "price": 450
+        },
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/24094/311796527_m650.jpg",
+          "name": "Пицца Оле-Оле",
+          "descr": "Соус томатный, сыр «Моцарелла», черри, маслины, зелень, майонез",
+          "price": 440
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "keyValue": "tanuki",
+      "img": "https://www.delivery-club.ru/naturmort/2000023_480x300.jpg",
+      "name": "Тануки",
+      "time": 60,
+      "stars": 4.2,
+      "price": 950,
+      "categories": [ 2, 3 ],
+      "products": [
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/32935/319112548_m650.jpg",
+          "name": "Ролл угорь стандарт",
+          "descr": "Рис, угорь, соус унаги, кунжут, водоросли нори",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "keyValue": "food-band",
+      "img": "https://www.delivery-club.ru/naturmort/1000027_480x300.jpg",
+      "name": "FoodBand",
+      "time": 30,
+      "stars": 4.9,
+      "price": 1200,
+      "categories": [ 1 ],
+      "products": [
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/24094/312056079_m650.jpg",
+          "name": "Пицца Плюс",
+          "descr": "Соус томатный, сыр «Моцарелла», сыр «Чеддер», томаты, пепперони, телятина, грибы, бекон, болгарский перец.",
+          "price": 805
+        },
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/24094/303195101_m650.jpg",
+          "name": "Пицца Гавайская",
+          "descr": "Соус томатный, сыр «Моцарелла», ветчина, ананасы",
+          "price": 440
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "keyValue": "zhadina-pizza",
+      "img": "https://www.delivery-club.ru/naturmort/2000024_480x300.jpg",
+      "name": "Жадина-пицца",
+      "time": 100,
+      "stars": 4.5,
+      "price": 750,
+      "categories": [ 1 ],
+      "products": [
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/24094/306389100_m650.jpg",
+          "name": "Пицца Классика",
+          "descr": "Соус томатный, сыр «Моцарелла», сыр «Пармезан», ветчина, салями, грибы.",
+          "price": 510
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "keyValue": "tochka-edy",
+      "img": "https://www.delivery-club.ru/naturmort/2000035_480x300.jpg",
+      "name": "Точка еды",
+      "time": 50,
+      "stars": 4.0,
+      "price": 450,
+      "categories": [ 4 ],
+      "products": [
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/42435/322005863_m650.jpg",
+          "name": "Ролл Калифорния 8 шт.",
+          "descr": "Рис, водоросли нори, авокадо, огурец, снежный краб",
+          "price": 279
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "keyValue": "pizza-burger",
+      "img": "https://www.delivery-club.ru/naturmort/6000043_480x300.jpg",
+      "name": "PizzaBurger",
+      "time": 60,
+      "stars": 4.4,
+      "price": 600,
+      "categories": [ 5, 6 ],
+      "products": [
+        {
+          "img": "https://www.delivery-club.ru/media/cms/relation_product/32606/312600819_m650.jpg",
+          "name": "Бургер \"Черная мамба\"",
+          "descr": "Булочка с кунжутом черная, котлета говяжья, сыр чеддер",
+          "price": 250
+        }
+      ]
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Пицца" },
+    { "id": 2, "name": "Суши" },
+    { "id": 3, "name": "Роллы" },
+    { "id": 4, "name": "Азиатская кухня" },
+    { "id": 5, "name": "Бургеры" },
+    { "id": 6, "name": "Фастфуд" }
+  ]
+}
